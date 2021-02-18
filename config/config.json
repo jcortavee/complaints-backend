@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Xroot1234",
+    "database": "complaintsdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Xroot1234",
+    "database": "complaintsdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Xroot1234",
+    "database": "complaintsdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
